@@ -18,6 +18,7 @@
 		D8DDBC442C8F418A00629A6B /* Order.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8DDBC422C8F418A00629A6B /* Order.swift */; };
 		D8DDBC452C8F418A00629A6B /* Menu.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8DDBC432C8F418A00629A6B /* Menu.swift */; };
 		D8DDBC472C8F419000629A6B /* menu.json in Resources */ = {isa = PBXBuildFile; fileRef = D8DDBC462C8F419000629A6B /* menu.json */; };
+		D8DDBC492C8F453500629A6B /* ItemRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8DDBC482C8F453500629A6B /* ItemRow.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,7 @@
 		D8DDBC422C8F418A00629A6B /* Order.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Order.swift; path = ../../../idine/Order.swift; sourceTree = "<group>"; };
 		D8DDBC432C8F418A00629A6B /* Menu.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Menu.swift; path = ../../../idine/Menu.swift; sourceTree = "<group>"; };
 		D8DDBC462C8F419000629A6B /* menu.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = menu.json; path = ../../../idine/menu.json; sourceTree = "<group>"; };
+		D8DDBC482C8F453500629A6B /* ItemRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItemRow.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +107,7 @@
 			children = (
 				D8DDBC0D2C8F40BF00629A6B /* iDineApp.swift */,
 				D8DDBC0F2C8F40BF00629A6B /* ContentView.swift */,
+				D8DDBC482C8F453500629A6B /* ItemRow.swift */,
 				D8DDBC402C8F417F00629A6B /* Helper.swift */,
 				D8DDBC432C8F418A00629A6B /* Menu.swift */,
 				D8DDBC422C8F418A00629A6B /* Order.swift */,
@@ -275,6 +278,7 @@
 				D8DDBC102C8F40BF00629A6B /* ContentView.swift in Sources */,
 				D8DDBC0E2C8F40BF00629A6B /* iDineApp.swift in Sources */,
 				D8DDBC442C8F418A00629A6B /* Order.swift in Sources */,
+				D8DDBC492C8F453500629A6B /* ItemRow.swift in Sources */,
 				D8DDBC412C8F417F00629A6B /* Helper.swift in Sources */,
 				D8DDBC452C8F418A00629A6B /* Menu.swift in Sources */,
 			);
